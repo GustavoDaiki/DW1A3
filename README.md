@@ -8,10 +8,10 @@
 </head>
 <body>
     <h1>Link das Atividades</h1>
-    <a href="Atividades/A2/Resume.drawio.png">Atividade 2</a>
-    <a href="Atividades/A4/index.html">Atividade 4</a>
-    <a href="Atividades/A5/resulocoes.html">Atividade 5</a>
-    <a href="Atividades/A6/index.html">Atividade 6</a>
+    <p href="Atividades/A2/Resume.drawio.png">Atividade 2</p>
+    <p href="Atividades/A4/index.html">Atividade 4<p>
+    <p href="Atividades/A5/resulocoes.html">Atividade 5</p>
+    <p href="Atividades/A6/index.html">Atividade 6</p>
 
 </body>
 </html>
