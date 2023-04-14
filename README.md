@@ -12,6 +12,6 @@
     <a href="Atividades/A4/index.html">Atividade 4<a>
     <a href="Atividades/A5/resulocoes.html">Atividade 5</a>
     <a href="Atividades/A6/index.html">Atividade 6</a>
-
+    <a href="Atividades/A7">Atividade 7</a>
 </body>
 </html>
