@@ -13,6 +13,7 @@
     <a href="Atividades/A5/resulocoes.html">Atividade 5</a>
     <a href="Atividades/A6/index.html">Atividade 6</a>
     <a href="Atividades/A7">Atividade 7</a>
-    <a href="Atividades/A8">Atividade 8</a>
+    <a href="Atividades/A8/Flex">Atividade 8 - Flex</a>
+    <a href="Atividades/A8/Grid">Atividade 8 - Grid</a>
 </body>
 </html>
