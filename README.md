@@ -8,12 +8,13 @@
 </head>
 <body>
     <h1>Link das Atividades</h1>
-    <a href="Atividades/A2/Resume.drawio.png">Atividade 2</a>
-    <a href="Atividades/A4">Atividade 4<a>
-    <a href="Atividades/A5/resulocoes.html">Atividade 5</a>
-    <a href="Atividades/A6/index.html">Atividade 6</a>
-    <a href="Atividades/A7">Atividade 7</a>
-    <a href="Atividades/A8/Flex">Atividade 8 - Flex</a>
-    <a href="Atividades/A8/Grid">Atividade 8 - Grid</a>
+    <li><a href="Atividades/A2/Resume.drawio.png">Atividade 2</a></li>
+    <li><a href="Atividades/A4">Atividade 4<a></li>
+    <li><a href="Atividades/A5/resulocoes.html">Atividade 5</a></li>
+    <li><a href="Atividades/A6/index.html">Atividade 6</a></li>
+    <li><a href="Atividades/A7">Atividade 7</a></li>
+    <li><a href="Atividades/A8/Flex">Atividade 8 - Flex</a></li>
+    <li><a href="Atividades/A8/Grid">Atividade 8 - Grid</a></li>
+    <li><a href="trabalho">Trabalho</li>
 </body>
 </html>
